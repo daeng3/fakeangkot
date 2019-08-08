@@ -2,7 +2,13 @@
   "posts": [
     { "id": 1, "title": " Pendidikan Agama" },
     { "id": 2, "title": "Kalkulus" },
-    { "id": 3, "title": "Matematika" }
+    { "id": 3, "title": "Matematika" },
+    { "id": 4, "title": " Pendidikan Agama" },
+    { "id": 5, "title": "Kalkulus" },
+    { "id": 6, "title": "Matematika" },
+    { "id": 7, "title": " Pendidikan Agama" },
+    { "id": 8, "title": "Kalkulus" },
+    { "id": 9, "title": "Matematika" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
